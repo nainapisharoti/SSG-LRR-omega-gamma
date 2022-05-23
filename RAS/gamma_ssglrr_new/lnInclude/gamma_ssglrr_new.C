@@ -1,1 +1,0 @@
-../gamma_ssglrr_new.C
