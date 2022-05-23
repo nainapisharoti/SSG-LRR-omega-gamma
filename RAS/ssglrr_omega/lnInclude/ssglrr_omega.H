@@ -1,1 +1,0 @@
-../ssglrr_omega.H
